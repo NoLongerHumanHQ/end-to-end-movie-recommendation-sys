@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-A complete end-to-end movie recommendation system built with Python and Streamlit.
+A complete end-to-end movie recommendation system built with Python.
 
 ## Features
 
